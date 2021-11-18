@@ -31,7 +31,6 @@ if(isset($_POST['btnauthorize'])){
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Authentication</title>
     </head>
     <body>
         <form action="" method="post">
